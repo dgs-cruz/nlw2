@@ -1,0 +1,27 @@
+#success {
+    background: var(--color-primary);
+}
+
+#success #container {
+    position: absolute;
+    background-image: url('/images/success-background.svg');
+    background-size: 100%;
+    color: var(--color-text-in-primary);
+    position: absolute;
+    width: 1119.2px;
+    height: 561px;
+}
+
+.success-image {
+    width: 100%;
+}
+
+.cadastro-salvo {
+    width: 479px;
+    height: 278px;
+    position: relative;
+    margin: auto;
+    margin-top: 203px;
+    background-color: seashell;
+    
+}
